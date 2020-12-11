@@ -1,0 +1,8 @@
+.LineGraph{
+    height: 500px !important;
+}
+
+.chartjs-render-monitor {
+    animation: chartjs-render-animation 0.001s;
+    height: 350px !important;
+}
